@@ -1,4 +1,4 @@
-# GymManagement
+![threadmill](https://github.com/jephinTJ/Gym-Management/assets/142671149/ca53be3e-3d6d-4f7e-9c58-701e512bfce7)# GymManagement
 
 ## Overview
 
@@ -44,3 +44,8 @@ Gym owners and managers wield the power of the admin panel, a versatile tool tha
 ## Concluding Thoughts
 
 The GymManagement platform for Z-Gen Fitness is not merely a website but a strategic asset. It orchestrates operational efficiency, enhances member engagement, and empowers gym administrators with actionable insights. By placing user experience at the forefront, GymManagement is set to revolutionize how gyms manage and optimize their operations.
+
+<img width="960" alt="lw" src="https://github.com/jephinTJ/Gym-Management/assets/142671149/b2c7cf8f-cbd6-485e-851d-1075fda9d014">
+<img width="960" alt="lz" src="https://github.com/jephinTJ/Gym-Management/assets/142671149/ffe87903-f123-4c40-9974-28113d1f95a9">
+<img width="960" alt="m1" src="https://github.com/jephinTJ/Gym-Management/assets/142671149/2b5fc479-2f5b-44b1-bd57-2d4832d66af3">
+
