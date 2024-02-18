@@ -1,5 +1,9 @@
 
 
+
+https://github.com/jephinTJ/Gym-Management/assets/142671149/609f8140-e4b9-467b-8369-54523e5cad7c
+
+
 ## Overview
 
 GymManagement is a sophisticated and comprehensive website designed exclusively for Z-Gen Fitness. This platform serves as an indispensable tool for gym owners and managers to proficiently oversee all aspects of their gym operations. The website is built with a user-centric approach, offering an array of features and functionalities that empower both administrators and gym members.
