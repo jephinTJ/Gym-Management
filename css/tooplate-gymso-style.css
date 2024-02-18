@@ -642,3 +642,17 @@ button#submit-button:hover {
     display: block;
   }
 }
+
+.hero {
+  background-image: url("../images/background-image.jpg"); /* Adjust the path to your image */
+  background-size: cover;
+  background-position: center;
+  height: 100vh; /* Set the height according to your needs */
+  position: relative;
+  z-index: 1;
+  padding: 60px 0;
+}
+
+.designer-name {
+  color: #cacaca; /* Change to the color you prefer */
+}
