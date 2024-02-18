@@ -1,4 +1,4 @@
-![threadmill](https://github.com/jephinTJ/Gym-Management/assets/142671149/ca53be3e-3d6d-4f7e-9c58-701e512bfce7)# GymManagement
+
 
 ## Overview
 
