@@ -1,5 +1,5 @@
 # Gym Management
-![1](https://github.com/jephinTJ/readme-preview/assets/142671149/3cbad46e-c181-4615-b5cc-afb32851b411)
+![1](https://github.com/jephinTJ/Gym-Management/assets/142671149/9ecfaae6-80a7-40fa-aac3-5870a85f9a91)
 
 ## Table of Contents
 - [*Overview*](#overview)
